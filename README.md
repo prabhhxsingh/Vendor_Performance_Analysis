@@ -1,4 +1,5 @@
 # 📊 Vendor Performance Analysis Dashboard
+by prabh
 
 This project is a comprehensive analysis of vendor performance using **Python**, **MySQL**, and **Power BI**. It extracts, transforms, and visualizes data to help identify high-performing and underperforming vendors based on key metrics like sales, ratings, and transactions.
 
